@@ -3194,19 +3194,17 @@ a.iconcol:hover{
     margin 0 0 0 0;
 }
 .welcome{
-    font-size: 175px;
+    font-size: 6vw;
+    width: auto;
+    
 }
 .ttwr
 {
-    font-size: 90px;
+    font-size: 4vw;
 }
 .txtwh
 {
-    text-align-last: center;
-    vertical-align: middle;
-    align-items: center;
-    align-self: center;
-    align-content: center;
+ 
     text-align:center;
     color: black;
     width: 100%;
