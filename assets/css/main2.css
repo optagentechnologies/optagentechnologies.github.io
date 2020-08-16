@@ -2919,7 +2919,7 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: url(../../images/banner.jpg);
+		background-image: url(../../images/banner2.jpg);
 		background-size: cover;
 		background-position: bottom;
 		background-attachment: fixed;
@@ -3116,7 +3116,7 @@
 
 	#footer {
 		padding: 6em 0;
-		background: #65b180;
+		background: #f37121;
 		color: #fff;
 		text-align: center;
 	}
@@ -3189,11 +3189,11 @@
     color: azure;
 }
 a.iconcol:hover{
-   color: #3fc2d3;
+   color: #ffd300;
 }
 .imgresize{
     width: 188px;
-    height: 50px;
+    height: 66px;
     margin 0 0 0 0;
 }
 .welcome{
