@@ -2528,8 +2528,8 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: transparent;
-		box-shadow: inset 0 0 0 3px #6cc091;
-		color: #6cc091 !important;
+		box-shadow: inset 0 0 0 3px #f37121;
+		color: #f37121 !important;
 		border-radius: 30px;
 		border: 0;
 		cursor: pointer;
@@ -2643,7 +2643,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #6cc091;
+			background-color: #f37121;
 			color: #ffffff !important;
 		}
 
@@ -2652,7 +2652,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #7ec89e;
+				background-color: #f37121;
 			}
 
 			input[type="submit"].special:active,
@@ -2660,7 +2660,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #5ab884;
+				background-color: #f37121;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
