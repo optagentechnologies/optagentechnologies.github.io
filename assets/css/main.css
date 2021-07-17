@@ -3115,7 +3115,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0;
+		padding: 2em 0;
 		background: #65b180;
 		color: #fff;
 		text-align: center;
@@ -3166,6 +3166,12 @@
 {
     font-family: 'Orbitron', sans-serif;
     color: white;
+}
+.orbit
+{
+	font-family: 'Baloo 2', cursive;
+	font-size: 18px;
+	color: white;
 }
 
 .marginaa
